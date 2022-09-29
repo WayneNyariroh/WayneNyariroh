@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @WayneNyariroh
-- 👀 I’m interested in Python, SAAS, Data Visualization, APIs and GIS
+- 👀 I’m interested in Python, SaaS, Data Visualization, APIs and GIS
 - 🌱 I’m currently learning Data Science, Ruby On Rails and Docker
 
 <!---

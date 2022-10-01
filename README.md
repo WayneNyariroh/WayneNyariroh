@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @WayneNyariroh
+- 👋 Hi, I’m Wayne Omondi
 - 👀 I’m interested in Python, SaaS, GIS, Data Visualization, APIs and Backened Development.
 - 🌱 I’m currently learning Data Science, Ruby On Rails and Docker and a few things in between.
 

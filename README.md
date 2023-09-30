@@ -1,5 +1,5 @@
-- 👋 Hi, __I’m Wayne Willis Omondi__
-- 👀 I’m interested in __Python, SaaS, GIS, Data Visualization, Data Engineering, APIs__ & __Backend Development.__
+- 👋 Hi, __I’m Wayne Willis Omondi__, from __Kenya.__
+- 👀 I’m interested in __Python, SaaS, GIS, Data Visualization, Data Engineering__ & __APIs.__
 - 🌱 I’m currently learning __Data Science/Engineering, Ruby On Rails__ and __Docker__ & a few things in between. 
 
 <!---

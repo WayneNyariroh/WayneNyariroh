@@ -208,7 +208,7 @@ I'm particularly interested in work involving:
     <img src="https://img.shields.io/badge/Portfolio-wayneowillis.com-black?style=flat-square" />
   </a>
   <a href="https://data.wayneowillis.com">
-    <img src="https://img.shields.io/badge/Portfolio-wayneowillis.com-black?style=flat-square" />
+    <img src="https://img.shields.io/badge/Blog-data.wayneowillis.com-black?style=flat-square" />
   </a>
   <a href="https://www.linkedin.com/in/waynewillislink/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-black?style=flat-square&logo=linkedin" />

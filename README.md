@@ -38,7 +38,7 @@ The project includes data acquisition, validation, cleaning, transformation, exp
 
 **Stack:** `Python` `Pandas` `GeoPandas` `Matplotlib` `Public Health Data`
 
-[View repository →](YOUR_TB_REPOSITORY_URL)
+[View repository →](https://github.com/WayneNyariroh/kenya_tb_surveillance_analysis)
 
 ---
 
@@ -62,7 +62,7 @@ It explores schema design, indexing, relationships, data quality, geospatial sup
 
 **Stack:** `PostgreSQL` `SQL`
 
-[View repository →](YOUR_POSTGRES_REPOSITORY_URL)
+[View repository →](https://github.com/WayneNyariroh/sql-public-health-data-quality-engine)
 
 ---
 

@@ -10,7 +10,7 @@
 
 <p align="center">
   <a href="https://wayneowillis.com">Portfolio</a> ·
-  <a href="YOUR_LINKEDIN_URL">LinkedIn</a> ·
+  <a href="https://www.linkedin.com/in/waynewillislink/">LinkedIn</a> ·
   <a href="mailto:wayne@wayneowillis.com">Email</a>
 </p>
 

@@ -143,12 +143,12 @@ The project is documented as a practical learning case study, with examples expl
 
 <p align="center">
   <img 
-    src="https://github-readme-stats.vercel.app/api?username=WayneNyariroh&show_icons=true&hide_border=true&rank_icon=github"
+    src="https://github-stats-extended.vercel.app/api?username=WayneNyariroh&show_icons=true&hide_border=true&rank_icon=github"
     height="165"
     alt="Wayne's GitHub stats"
   />
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=WayneNyariroh&layout=compact&hide_border=true"
+    src="https://github-stats-extended.vercel.app/api/top-langs/?username=WayneNyariroh&layout=compact&hide_border=true"
     height="165"
     alt="Top languages"
   />

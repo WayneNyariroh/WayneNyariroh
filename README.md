@@ -30,7 +30,7 @@ Currently, I'm going deeper into data engineering, pipeline design, PostgreSQL, 
 
 ## Selected work
 
-### Kenya TB Analysis
+### Kenya TB Surveillance & Analysis
 
 An end-to-end analysis of tuberculosis data in Kenya, combining disease notifications, population data and geographic information to examine burden, trends and county-level differences.
 
@@ -54,7 +54,7 @@ The application provides a clustered geographic map alongside analytical views f
 
 ---
 
-### Public Health Data Quality Engine
+### SQL Public Health Data Quality Engine
 
 A large-scale relational database project designed around public health reporting and analytics.
 
@@ -66,7 +66,7 @@ It explores schema design, indexing, relationships, data quality, geospatial sup
 
 ---
 
-### Kenya HIV Programme Analytics Pipeline
+### Kenya Public Health Data Pipelie: Kenya HIV Programme Analytics
 
 A Python project exploring how a reliable data pipeline can be designed with failure handling, validation, retries, logging, checkpoints and reproducible processing.
 

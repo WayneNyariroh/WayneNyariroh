@@ -128,13 +128,13 @@ The project is documented as a practical learning case study, with examples expl
 
 ## Areas I'm exploring
 
-- Data engineering and ETL pipelines
-- PostgreSQL performance and database design
+- Reproducible analytical workflows
 - Public health data systems
 - Geospatial analysis
-- API design and backend development
 - Data validation and quality checks
-- Reproducible analytical workflows
+- Data engineering and ETL pipelines especially fault-tolerant pipelines
+- PostgreSQL performance and database design
+- API design and backend development
 - Analytics applications with Streamlit and Python
 
 <br>
